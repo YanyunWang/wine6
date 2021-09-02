@@ -1,6 +1,5 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
 import './index.css';
 import {Card, CardDeck, ListGroup, ListGroupItem } from 'react-bootstrap';
 import {Button} from 'reactstrap'
